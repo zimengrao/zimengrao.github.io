@@ -3,11 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: mica
+subtitle: 小小白的进阶之路
+description: mica's blog | python | mysql
+author: wangmin
+email: 18202986488@163.com
+language: zh-CN
 timezone:
 
 # URL
